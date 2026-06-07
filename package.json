@@ -17,7 +17,8 @@
 		"@upstash/redis": "^1.38.0",
 		"discord.js": "^14.24.0",
 		"pdq-wasm": "^0.3.9",
-		"sharp": "^0.34.5"
+		"sharp": "^0.34.5",
+		"zod": "^3.25.76"
 	},
 	"devDependencies": {
 		"@sapphire/ts-config": "^5.0.1",
@@ -28,8 +29,7 @@
 		"eslint-formatter-pretty": "^7.0.0",
 		"glob": "^13.0.6",
 		"prettier": "^3.6.2",
-		"typescript": "~5.9.3",
-		"zod": "^3.25.76"
+		"typescript": "~5.9.3"
 	},
 	"engines": {
 		"node": ">=22.12.0"
