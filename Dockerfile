@@ -29,4 +29,4 @@ COPY --from=builder /app/dist/ dist/
 
 USER node
 
-CMD ["node", "--env-file=.env", "dist/index.js"]
+CMD ["node", "dist/index.js"]
