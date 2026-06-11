@@ -15,12 +15,16 @@ export const KNOWN_CASINO_HASHES: string[] = [
 	'ae639e13511482ab6d5c79b6f2e9c5b6211c12cd2d3615dc5a892536d653bba9',
 	// (existing)
 	'ec91038407f91f66f01ff266eeaf0d490f4622a5513eb25b8e7b96e2a191715a',
-	// images\image7.jpg
+	// (existing)
 	'4721c10ed86e3ad13f612511c48ec04e5d6e3ff1ff71f93ec04e0ce32703738d',
-	// images\image6.jpg
+	// (existing)
 	'aa3f7786e89dd939820367a38e8ddc0da27967e39f86980c2c3c22f647c2c8f8',
-	// images\image5.jpg
+	// (existing)
 	'aa85aa15554a96a5b956bab256ab4d5aaaa7715c51fa0ea789711aab551aab54',
-	// images\image.jpg
+	// (existing)
 	'ec63ad031e1c438f138e538f18c4a8733c72e970e171d6395e8cd3ad53af1e1c',
+	// images\idk2.jpg
+	'cba64db63249b26949b66a92b5e8bab596c9cdb6c9b6324953694a77248069b6',
+	// images\idk.jpg
+	'fa82454701717c3c147c94381daf9d0e07cfcbc6fa806bc7fb507175fc2904ea',
 ];
